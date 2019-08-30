@@ -1,0 +1,144 @@
+body{
+	background-color: #ffedfa !important;
+}
+.container{
+
+
+}
+.con1{
+	height: 70px;
+	background-color: #fcd4e2;
+	width:100% !important;
+}
+
+.row{
+	
+;
+ padding-bottom: 2%;
+ margin-bottom: 1%;
+}
+.row1{
+	margin-bottom: 2%;
+}
+.story{
+	margin-top: 3%;
+	margin-left: 23%;
+	margin-bottom: 3%;
+	color:lightblue;
+}
+.stat{
+	color: #15a8c2;
+	margin-left: 40%;
+	margin-bottom: 4%;
+	margin-top: 4%;
+}
+#define{margin-left: 20%;
+	padding-bottom: 3%;
+	color: gray;
+}
+.st{
+	display: flex;
+	flex-direction: row;
+}
+.facts{color:gray;
+	margin-left: 20%;
+	
+}
+
+.st2{margin-top: 2%;
+	display: flex;
+	flex-direction: row;
+}
+.card{
+
+	margin-left:1%;
+}
+.stat1{
+	margin-top: 8%;
+	color: #15a8c2;
+margin-left: 20%;
+}
+.stat2{
+	margin-top: 8%;
+	color:#15a8c2;
+}
+.img2{
+margin-left: 23%;
+    display: flex;
+	flex-direction: row;
+}
+.img3{
+
+	margin-left: 23%;
+	display: flex;
+	flex-direction: row;}
+	.about{
+		height: 100% !important;
+ background-image: url("https://www.dictionary.com/e/wp-content/uploads/2018/03/1000x700-feminist.jpg");
+background-color: transparent !important;
+background-size: cover;
+
+	}
+	.facts1{
+		display: flex;
+		flex-direction: row;
+	}
+	.facts2{
+		margin-left: 4%;
+		
+
+	}
+	#hr1{
+		margin-top: 4px;
+		height: 3px;
+		color: lightblue;
+		background-color: lightblue;
+		border: none;
+	}
+	#img4{
+		padding-bottom: 3%;
+		border-color: gray;
+	}
+	#img5{
+		padding-bottom: 3%;
+		border-color: gray;
+	}
+	#img6{
+		padding-bottom: 3%;
+		border-color: gray;
+	}
+	#img7{
+		padding-bottom: 3%;
+
+	}
+	#heading{
+		margin-bottom: 0;
+	}
+
+	.card-header{
+
+		border-color: blue;
+	shape-outside: circle(25px);
+	background-color: lightblue;
+	}
+.card-body{
+	border-color: blue;
+	shape-outside: circle(25px);
+	background-color: lightblue;
+	}
+	#heading2{
+		margin-bottom: 0;
+	}
+	#hr2{
+		height: 3px;
+		color: lightblue;
+		background-color: lightblue;
+		border: none;
+	}
+	.topics{
+		display: flex;
+		flex-direction: row;
+		margin-bottom: 8%;
+		
+
+	}
